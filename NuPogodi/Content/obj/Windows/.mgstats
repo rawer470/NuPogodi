@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/breggs.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/breggs.xnb","TextureProcessor","Texture2DContent",11819,27141,0,3754736
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/button.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/button.xnb","TextureProcessor","Texture2DContent",22660,8294485,0,3609159
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/button_oval.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/button_oval.xnb","TextureProcessor","Texture2DContent",20611,8294485,0,3033693
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/cipa.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/cipa.xnb","TextureProcessor","Texture2DContent",28621,267029,0,0140571
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/console off.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/console off.xnb","TextureProcessor","Texture2DContent",925390,8294485,0,3507259
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/console.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/console.xnb","TextureProcessor","Texture2DContent",1716689,8294485,0,2700649
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/eggs.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/eggs.xnb","TextureProcessor","Texture2DContent",14719,28813,0,0095856
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/GameOver.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/GameOver.xnb","TextureProcessor","Texture2DContent",34311,8294485,0,2715674
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/MenuFont.spritefont","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/MenuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2077,267298,0,2601631
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/music.mp3","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/music.xnb","SongProcessor","SongContent",6965333,123,1,9611421
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/rabbit.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/rabbit.xnb","TextureProcessor","Texture2DContent",109711,25600085,0,9346848
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/woolf1.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/woolf1.xnb","TextureProcessor","Texture2DContent",129723,469285,0,0416517
+"C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/woolf2.png","C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/bin/Windows/woolf2.xnb","TextureProcessor","Texture2DContent",142302,469285,0,0201902

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/breggs.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/button.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/button_oval.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/cipa.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/console off.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/console.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/eggs.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/GameOver.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/MenuFont.spritefont</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/music.mp3</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/rabbit.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/woolf1.png</File>
+    <File>C:/Users/timon/source/repos/NuPogodi/NuPogodi/Content/woolf2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
